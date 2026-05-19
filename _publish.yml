@@ -1,6 +1,0 @@
--
- source: project
- netlify:
-  -
-   id: 411c38cd-d6ee-4a3b-a316-bf95c236eb67
-   url: 'https://datavizaz-su24.netlify.app'
