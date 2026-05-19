@@ -1,0 +1,123 @@
+# =========================================================
+# R / RStudio / Quarto / macOS .gitignore
+# =========================================================
+
+# -------------------------
+# R session / workspace
+# -------------------------
+.Rhistory
+.Rapp.history
+.RData
+.Ruserdata
+
+# -------------------------
+# RStudio
+# -------------------------
+.Rproj.user/
+*.Rproj
+
+# Uncomment if you DO want to ignore the project file
+# *.Rproj
+
+# -------------------------
+# Quarto
+# -------------------------
+.quarto/
+_freeze/
+_site/
+docs/
+
+
+# Quarto execution artifacts
+*_files/
+*_cache/
+
+# Rendered outputs (optional)
+# Uncomment if you only want source-controlled .qmd files
+# *.html
+# *.pdf
+# *.docx
+# *.pptx
+
+# -------------------------
+# knitr / rmarkdown
+# -------------------------
+cache/
+figure/
+
+# -------------------------
+# Python environments
+# -------------------------
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+
+# -------------------------
+# Jupyter
+# -------------------------
+.ipynb_checkpoints/
+
+# -------------------------
+# VS Code
+# -------------------------
+.vscode/
+
+# -------------------------
+# OS files
+# -------------------------
+.DS_Store
+Thumbs.db
+
+# -------------------------
+# Logs
+# -------------------------
+*.log
+
+# -------------------------
+# Temporary files
+# -------------------------
+*~
+*.tmp
+*.bak
+*.swp
+
+# -------------------------
+# Package build artifacts
+# -------------------------
+*.tar.gz
+/src/*.o
+/src/*.so
+/src/*.dll
+
+# -------------------------
+# renv (recommended setup)
+# -------------------------
+
+# Keep lockfile tracked
+# renv.lock
+
+# Ignore library except activate script/settings
+renv/library/
+renv/staging/
+renv/python/
+
+# Keep these tracked
+!renv/activate.R
+!renv/settings.json
+
+# -------------------------
+# Optional large data folders
+# -------------------------
+# data/raw/
+# data/processed/
+# outputs/
+# models/
+/.quarto/
+**/*.quarto_ipynb
+
+cran_packages.txt
+github_packages.txt
+required_packages.txt
+*.sh
