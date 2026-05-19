@@ -2,7 +2,6 @@
 title: "INFO 526 Syllabus Summer 2025"
 format: 
   html: default
-  pdf: default
 ---
 
 ## Course Description
@@ -43,12 +42,12 @@ This course provides an overview of the various concepts and skills required for
 
 ## Learning Outcomes
 
--   Understand the principles of designing and creating effective data visualizations.
--   Evaluate, critique, and improve upon one's own and others' data visualizations based on how good a job the visualization does for communicating a message clearly and correctly.
--   Post-process and refine plots for effective communication.
--   Use visualizations for evaluating statistical models and for statistical inference.
--   Master using R and a variety of modern data visualization packages to create data visualizations.
--   Work reproducibly individually and collaboratively using Git and GitHub.
+- Understand the principles of designing and creating effective data visualizations.
+- Evaluate, critique, and improve upon one's own and others' data visualizations based on how good a job the visualization does for communicating a message clearly and correctly.
+- Post-process and refine plots for effective communication.
+- Use visualizations for evaluating statistical models and for statistical inference.
+- Master using R and a variety of modern data visualization packages to create data visualizations.
+- Work reproducibly individually and collaboratively using Git and GitHub.
 
 ## Textbooks
 
@@ -67,9 +66,9 @@ An up-to-date schedule, assignments, and due dates can be found on the course we
 
 This course is a core requirement for the MS in Data Science. It will help you master the following competencies:
 
--   MSINFO2: Students will obtain the skills of collecting, manipulating, and analyzing different types of data at different scales, and interpreting the results properly.
+- MSINFO2: Students will obtain the skills of collecting, manipulating, and analyzing different types of data at different scales, and interpreting the results properly.
 
--   MSINFO3: Students will acquire the skills to communicate the results of their work to interdisciplinary teams, using appropriate visualizations, multi-media, or artistic performance.
+- MSINFO3: Students will acquire the skills to communicate the results of their work to interdisciplinary teams, using appropriate visualizations, multi-media, or artistic performance.
 
 ## Course Community
 
@@ -83,9 +82,9 @@ It is my intent that students from all diverse backgrounds and perspectives be w
 
 Furthermore, I would like to create a learning environment for my students that supports a diversity of thoughts, perspectives and experiences, and honors your identities. To help accomplish this:
 
--   If you have a name that differs from those that appear in your official UArizona records, please let me know! You'll be able to note this in the Getting to know you survey.
--   If you feel like your performance in the class is being impacted by your experiences outside of class, please don't hesitate to come and talk with me. If you prefer to speak with someone outside of the course, your academic dean is an excellent resource.
--   I (like many people) am still in the process of learning about diverse perspectives and identities. If something was said in class (by anyone) that made you feel uncomfortable, please let me or a member of the teaching team know.
+- If you have a name that differs from those that appear in your official UArizona records, please let me know! You'll be able to note this in the Getting to know you survey.
+- If you feel like your performance in the class is being impacted by your experiences outside of class, please don't hesitate to come and talk with me. If you prefer to speak with someone outside of the course, your academic dean is an excellent resource.
+- I (like many people) am still in the process of learning about diverse perspectives and identities. If something was said in class (by anyone) that made you feel uncomfortable, please let me or a member of the teaching team know.
 
 ### Communication
 
@@ -95,17 +94,17 @@ I will regularly send course announcements via email and Slack, make sure to che
 
 ### Where to get help
 
--   If you have a question during lecture, feel free to ask it! There are likely other students with the same question, so by asking you will create a learning opportunity for everyone.
--   The teaching team is here to help you be successful in the course. You are encouraged to attend office hours to ask questions about the course content and assignments. Many questions are most effectively answered as you discuss them with others, so office hours are a valuable resource. Please use them!
--   Outside of class and office hours, any general questions about course content or assignments should be posted on the course [Slack](https://info526summer2024.slack.com/). There is a chance another student has already asked a similar question, so please check the other posts on Slack before adding a new question. If you know the answer to a question posted on Slack, I encourage you to respond!
+- If you have a question during lecture, feel free to ask it! There are likely other students with the same question, so by asking you will create a learning opportunity for everyone.
+- The teaching team is here to help you be successful in the course. You are encouraged to attend office hours to ask questions about the course content and assignments. Many questions are most effectively answered as you discuss them with others, so office hours are a valuable resource. Please use them!
+- Outside of class and office hours, any general questions about course content or assignments should be posted on the course [Slack](https://info526summer2024.slack.com/). There is a chance another student has already asked a similar question, so please check the other posts on Slack before adding a new question. If you know the answer to a question posted on Slack, I encourage you to respond!
 
 Check out the [Support](https://datavizaz.org/course-support) page for more resources.
 
 I want to make sure that you learn everything you were hoping to learn from this class. If this requires flexibility, please don't hesitate to ask.
 
--   You *never* owe me personal information about your health (mental or physical) but you're always welcome to talk to me. If I can't help, I likely know someone who can.
+- You *never* owe me personal information about your health (mental or physical) but you're always welcome to talk to me. If I can't help, I likely know someone who can.
 
--   I want you to learn lots of things from this class, but I primarily want you to stay healthy, balanced, and grounded during this crisis.
+- I want you to learn lots of things from this class, but I primarily want you to stay healthy, balanced, and grounded during this crisis.
 
 ## Lectures
 
@@ -115,25 +114,25 @@ My role as instructor is to introduce you new tools and techniques, but it is up
 
 Assessment for the course is comprised of four components: attendance and participation, reading quizzes, homework assignments, and final project.
 
--   **Participation** is required in the course, mostly via Slack. Asking questions in the channels is particularly encouraged, as is helping your peers.
+- **Participation** is required in the course, mostly via Slack. Asking questions in the channels is particularly encouraged, as is helping your peers.
 
--   **Reading quizzes** (4), due every other week (roughly), completed individually. Each quiz is worth 2.5% of the grade.
+- **Reading quizzes** (4), due every other week (roughly), completed individually. Each quiz is worth 2.5% of the grade.
 
-    Reading quizzes will be linked from the [course schedule](https://datavizaz.org/). They always cover reading that is due since the previous quiz and up to and including the deadline for the given quiz. They're due by 5pm AZ time on the indicated day on the [course schedule](https://datavizaz.org/).
+  Reading quizzes will be linked from the [course schedule](https://datavizaz.org/). They always cover reading that is due since the previous quiz and up to and including the deadline for the given quiz. They're due by 5pm AZ time on the indicated day on the [course schedule](https://datavizaz.org/).
 
--   **Homework assignments** (5), due every week (roughly) starting Week 2, completed individually. Each homework assignment is worth 9% of the course grade. All are required, but the lowest homework assignment score is dropped and replaced with the average of the remaining 4.
+- **Homework assignments** (5), due every week (roughly) starting Week 2, completed individually. Each homework assignment is worth 9% of the course grade. All are required, but the lowest homework assignment score is dropped and replaced with the average of the remaining 4.
 
-    Homework assignments are due by 5pm AZ Time on the indicated day on the [course schedule](https://datavizaz.org/).
+  Homework assignments are due by 5pm AZ Time on the indicated day on the [course schedule](https://datavizaz.org/).
 
--   **Project** (1), end of term, completed in individuals or pairs.
+- **Project** (1), end of term, completed in individuals or pairs.
 
-    -   Final Project: Teams will be given a dataset to visualize. Project 1 is worth 40% of the course grade.
+  - Final Project: Teams will be given a dataset to visualize. Project 1 is worth 40% of the course grade.
 
-    The deliverables for the project will include a data visualization, a write up of the process and findings, and a presentation. For the second project, you will be encouraged to think beyond a traditional two-dimensional data visualization (e.g., interactive web apps/dashboards, data art, generative art, physical/tangible visualizations, **{ggplot2}** extensions, etc.).
+  The deliverables for the project will include a data visualization, a write up of the process and findings, and a presentation. For the second project, you will be encouraged to think beyond a traditional two-dimensional data visualization (e.g., interactive web apps/dashboards, data art, generative art, physical/tangible visualizations, **{ggplot2}** extensions, etc.).
 
-    The project will have a peer review component to provide at least one round of feedback during the process of development. Teams will provide periodic peer feedback to their teammates while working on the project as well as upon completion. The scores from the peer evaluations, along with individual contributions tracked by commits on GitHub, will be used to ensure that each student has contributed to the teamwork.
+  The project will have a peer review component to provide at least one round of feedback during the process of development. Teams will provide periodic peer feedback to their teammates while working on the project as well as upon completion. The scores from the peer evaluations, along with individual contributions tracked by commits on GitHub, will be used to ensure that each student has contributed to the teamwork.
 
-    All team members must take part in the presentation. Presentations can be givenvia video recording, or via Zoom to the instructor if the team prefers. My preference is that the team stick to one method of delivery (all presenters via video or all presenters on Zoom), but I realize a lot can change throughout this semester, and we'll adjust accordingly.
+  All team members must take part in the presentation. Presentations can be givenvia video recording, or via Zoom to the instructor if the team prefers. My preference is that the team stick to one method of delivery (all presenters via video or all presenters on Zoom), but I realize a lot can change throughout this semester, and we'll adjust accordingly.
 
 All work is expected to be submitted by the deadline and there are no make ups for any missed assessments. See [Late work policy](#late-work-extensions) for policies on late work.
 
@@ -169,29 +168,29 @@ These are upper bounds for grade cutoffs, depending on the class performance the
 
 Please abide by the following as you work on assignments in this course:
 
--   **Collaboration:** Only work that is clearly assigned as team work should be completed collaboratively.
+- **Collaboration:** Only work that is clearly assigned as team work should be completed collaboratively.
 
-    -   You may discuss lab assignments with other students; however, you may not directly share (or copy) code or write up with other students. For team assignments, you may collaborate freely within your team. You may discuss the assignment with other teams; however, you may not directly share (or copy) code or write up with another team. Unauthorized sharing (or copying) of the code or write up will be considered a violation for all students involved.
+  - You may discuss lab assignments with other students; however, you may not directly share (or copy) code or write up with other students. For team assignments, you may collaborate freely within your team. You may discuss the assignment with other teams; however, you may not directly share (or copy) code or write up with another team. Unauthorized sharing (or copying) of the code or write up will be considered a violation for all students involved.
 
-    -   You may not discuss or otherwise work with others on the exams. Unauthorized collaboration or using unauthorized materials will be considered a violation for all students involved. More details will be given closer to the exam date.
+  - You may not discuss or otherwise work with others on the exams. Unauthorized collaboration or using unauthorized materials will be considered a violation for all students involved. More details will be given closer to the exam date.
 
-    -   For the project, collaboration within teams is not only allowed, but expected. Communication between teams at a high level is also allowed however you may not share code or components of the project across teams.
+  - For the project, collaboration within teams is not only allowed, but expected. Communication between teams at a high level is also allowed however you may not share code or components of the project across teams.
 
-    -   On individual assignments you may not directly share work (including code) with another student in this class, and on team assignments you may not directly share work (including code) with another team in this class.
+  - On individual assignments you may not directly share work (including code) with another student in this class, and on team assignments you may not directly share work (including code) with another team in this class.
 
--   **Online resources:** I am well aware that a huge volume of code is available on the web to solve any number of problems. Unless I explicitly tell you not to use something, the course’s policy is that you may make use of any online resources (e.g., StackOverflow) but you must explicitly cite where you obtained any code you directly use (or use as inspiration). Any recycled code that is discovered and is not explicitly cited will be treated as plagiarism.
+- **Online resources:** I am well aware that a huge volume of code is available on the web to solve any number of problems. Unless I explicitly tell you not to use something, the course’s policy is that you may make use of any online resources (e.g., StackOverflow) but you must explicitly cite where you obtained any code you directly use (or use as inspiration). Any recycled code that is discovered and is not explicitly cited will be treated as plagiarism.
 
--   **Use of generative artificial intelligence (AI)**: You should treat generative AI, such as ChatGPT, the same as other online resources. There are two guiding principles that govern how you can use AI in this course[^1]:
+- **Use of generative artificial intelligence (AI)**: You should treat generative AI, such as ChatGPT, the same as other online resources. There are two guiding principles that govern how you can use AI in this course[^1]:
 
-    1.  *Cognitive dimension:* Working with AI should not reduce your ability to think clearly. We will practice using AI to facilitate—rather than hinder—learning.
+  1.  *Cognitive dimension:* Working with AI should not reduce your ability to think clearly. We will practice using AI to facilitate—rather than hinder—learning.
 
-    2.  *Ethical dimension***:** Students using AI should be transparent about their use and make sure it aligns with academic integrity.
+  2.  *Ethical dimension***:** Students using AI should be transparent about their use and make sure it aligns with academic integrity.
 
-    -   **✅ AI tools for code:** You may make use of the technology for coding examples on assignments; if you do so, you must explicitly cite where you obtained the code. Any recycled code that is discovered and is not explicitly cited will be treated as plagiarism. You may use [these guidelines](https://guides.lib.monash.edu/c.php?g=219786&p=6972087) for citing AI-generated content.
+  - **✅ AI tools for code:** You may make use of the technology for coding examples on assignments; if you do so, you must explicitly cite where you obtained the code. Any recycled code that is discovered and is not explicitly cited will be treated as plagiarism. You may use [these guidelines](https://guides.lib.monash.edu/c.php?g=219786&p=6972087) for citing AI-generated content.
 
-    -   **❌ AI tools for narrative:** Unless instructed otherwise, you may not use generative AI to write narrative on assignments. In general, you may use generative AI as a resource as you complete assignments but not to answer the exercises for you.
+  - **❌ AI tools for narrative:** Unless instructed otherwise, you may not use generative AI to write narrative on assignments. In general, you may use generative AI as a resource as you complete assignments but not to answer the exercises for you.
 
-    You are ultimately responsible for the work you turn in; it should reflect *your* understanding of the course content.
+  You are ultimately responsible for the work you turn in; it should reflect *your* understanding of the course content.
 
 [^1]: These guiding principles are based on [*Course Policies related to ChatGPT and other AI Tools*](https://docs.google.com/document/d/1WpCeTyiWCPQ9MNCsFeKMDQLSTsg1oKfNIH6MzoSFXqQ/preview) developed by Joel Gladd, Ph.D.
 
@@ -205,17 +204,17 @@ Students in courses at the U of A InfoSci are expected to maintain rigor in thei
 
 **Consider the following PROHIBITED** practices in this course, unless the instructor has specifically written instructions or permission to do otherwise:
 
--   Posting a question on an online site such as Chegg.com, and copying and pasting some or all of the response into an assessment
+- Posting a question on an online site such as Chegg.com, and copying and pasting some or all of the response into an assessment
 
--   Posting an assessment from the course on online sharing sites such as Course Hero. Aiding other students in violation of academic integrity is also a violation, and is potential copyright infringement.
+- Posting an assessment from the course on online sharing sites such as Course Hero. Aiding other students in violation of academic integrity is also a violation, and is potential copyright infringement.
 
--   Generating and submitting, in whole or in part, text or code through Artificial Intelligence such as ChatGPT, QuillBot, and text summarizers
+- Generating and submitting, in whole or in part, text or code through Artificial Intelligence such as ChatGPT, QuillBot, and text summarizers
 
--   Using, in whole or in part, computer code not written by the student (for example, from another student, a book, or the internet) in an assignment or project. This includes using such code in modified or unmodified form.
+- Using, in whole or in part, computer code not written by the student (for example, from another student, a book, or the internet) in an assignment or project. This includes using such code in modified or unmodified form.
 
--   Searching for solutions to projects or assignments on the internet or through other tools, when your instructor intended for you to learn the solution through exercises (e.g. Googling for the solution to a question on an assignment).
+- Searching for solutions to projects or assignments on the internet or through other tools, when your instructor intended for you to learn the solution through exercises (e.g. Googling for the solution to a question on an assignment).
 
--   Simultaneously submitting the same assignment as another student enrolled into the course without prior permission from the instructor
+- Simultaneously submitting the same assignment as another student enrolled into the course without prior permission from the instructor
 
 ***Exceptions: Clear Instructions will be Provided***
 
@@ -233,29 +232,29 @@ The due dates for assignments are there to help you keep up with the course mate
 
 Policy on late work depends on the particular course component:
 
--   Reading quizzes: Late quizzes are not accepted and there are no make ups for missed quizzes.
+- Reading quizzes: Late quizzes are not accepted and there are no make ups for missed quizzes.
 
--   Homework assignments: GitHub repositories will be closed to contributions at the deadline. If you need to submit your work late, send a DM on Slack to me to reopen your repository.
+- Homework assignments: GitHub repositories will be closed to contributions at the deadline. If you need to submit your work late, send a DM on Slack to me to reopen your repository.
 
-    -   Late, within 24 hours of deadline: -10% of available points
+  - Late, within 24 hours of deadline: -10% of available points
 
-    -   Late, within 24-48 hours of deadline: -20% of available points
+  - Late, within 24-48 hours of deadline: -20% of available points
 
-    -   Two days late or later: No credit, and we will not provide written feedback
+  - Two days late or later: No credit, and we will not provide written feedback
 
--   Projects: The following three components contribute to your project score.
+- Projects: The following three components contribute to your project score.
 
-    -   Presentation: Late presentations are not accepted and there are no make ups for missed presentations.
+  - Presentation: Late presentations are not accepted and there are no make ups for missed presentations.
 
-    -   Write up: GitHub repositories will be closed to contributions at the deadline. If you need to submit your work late, Slack/email me to reopen your repository.
+  - Write up: GitHub repositories will be closed to contributions at the deadline. If you need to submit your work late, Slack/email me to reopen your repository.
 
-        -   Late, within 24 hours of deadline: -10% of available points
+    - Late, within 24 hours of deadline: -10% of available points
 
-        -   Late, within 24-48 hours of deadline: -20% of available points
+    - Late, within 24-48 hours of deadline: -20% of available points
 
-        -   Two days late or later: No credit, and we will not provide written feedback
+    - Two days late or later: No credit, and we will not provide written feedback
 
-    -   Peer evaluation: Late peer evaluations are not accepted and there are no make ups for missed presentations. If you do not turn in your peer evaluation, you get 0 points for your own peer score as well, regardless of how your teammates have evaluated you.
+  - Peer evaluation: Late peer evaluations are not accepted and there are no make ups for missed presentations. If you do not turn in your peer evaluation, you get 0 points for your own peer score as well, regardless of how your teammates have evaluated you.
 
 ### Waiver for extenuating circumstances
 
@@ -313,8 +312,8 @@ Also watch the video available at <https://arizona.sabacloud.com/Saba/Web_spf/N
 
 ## Important dates
 
--   **Monday, May 19:** Classes begin, asynchronously
--   **Friday, June 27:** Last day of classes and examinations
+- **Monday, May 19:** Classes begin, asynchronously
+- **Friday, June 27:** Last day of classes and examinations
 
 For more important dates, see the full [UArizona Academic Calendar](https://archive.catalog.arizona.edu/2022-23/2024-2025-academic-calendar.html).
 
