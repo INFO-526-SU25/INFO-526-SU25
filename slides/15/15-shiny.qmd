@@ -1,0 +1,155 @@
+---
+title: Interactive reporting + visualization with Shiny
+subtitle: Lecture 15
+title-slide-attributes:
+  data-background-image: ../vizdata-bg.png
+  data-background-size: 800px, cover
+  data-slide-number: none
+format: revealjs
+highlight-style: a11y
+execute:
+  code-link: true
+  warning: true
+editor_options: 
+  chunk_output_type: console
+---
+
+## Setup {.smaller}
+
+```{r}
+#| label: setup
+#| message: false
+
+# load packages
+library(countdown)
+library(tidyverse)
+library(shiny)
+
+# set theme for ggplot2
+ggplot2::theme_set(ggplot2::theme_minimal(base_size = 14))
+
+# set width of code output
+options(width = 65)
+
+# set figure parameters for knitr
+knitr::opts_chunk$set(
+  fig.width = 7, # 7" width
+  fig.asp = 0.618, # the golden ratio
+  fig.retina = 3, # dpi multiplier for displaying HTML output on retina
+  fig.align = "center", # center align figures
+  dpi = 300 # higher dpi, sharper image
+)
+```
+
+# Shiny: High level view
+
+## Shiny {.center}
+
+Every Shiny app has a webpage that the user visits, <br> and behind this webpage there is a computer that serves this webpage by running R.
+
+```{r echo = FALSE, out.width = "80%"}
+knitr::include_graphics("images/high-level-1.png")
+```
+
+## Shiny {.center}
+
+When running your app locally, the computer serving your app is your computer.
+
+```{r echo = FALSE, out.width = "100%"}
+knitr::include_graphics("images/high-level-2.png")
+```
+
+## Shiny {.center}
+
+When your app is deployed, the computer serving your app is a web server.
+
+```{r echo = FALSE, out.width = "100%"}
+knitr::include_graphics("images/high-level-3.png")
+```
+
+## Shiny {.center}
+
+```{r echo = FALSE, out.width = "100%"}
+knitr::include_graphics("images/high-level-4.png")
+```
+
+## Demo
+
+::: columns
+::: {.column width="50%"}
+::: task
+-   Clone the [`shiny-ex`](https://github.com/INFO526-DataViz/shiny-ex) repo.
+-   Launch the app by opening the `app.R` file and clicking on *Run App*.
+-   Close the app by clicking the stop icon
+-   Select view mode in the drop down menu next to Run App
+:::
+:::
+
+::: {.column width="50%"}
+```{r echo = FALSE, fig.align = "center", out.width = "100%"}
+knitr::include_app("https://gallery.shinyapps.io/goog-trend-index/", height = "650px")
+```
+:::
+:::
+
+# Anatomy of a Shiny app
+
+## What's in an app?
+
+::: columns
+::: {.column width="50%"}
+```{r eval = FALSE}
+library(shiny)
+ui <- fluidPage()
+
+
+server <- function(
+    input, 
+    output, 
+    session) {
+  ...
+}
+
+
+shinyApp(
+  ui = ui, 
+  server = server
+  )
+```
+:::
+
+::: {.column width="50%"}
+-   **User interface** controls the layout and appearance of app
+
+-   **Server function** contains instructions needed to build app
+:::
+:::
+
+## Data: Health expenditure vs. life expectancy {.smaller}
+
+> Source: [World Bank](https://databank.worldbank.org/) and [googleCharts](https://github.com/jcheng5/googleCharts)
+
+**Data: `healthexp.Rds`**
+
+```{r message = FALSE}
+health <- readRDS(here::here("slides/15", "data/healthexp.Rds"))
+health |> glimpse()
+```
+
+## Ultimate goal {.smaller}
+
+::: {.medium .center-align}
+<https://shiny.posit.co/r/gallery/interactive-visualizations/google-charts/>
+:::
+
+```{r echo = FALSE}
+knitr::include_app("https://gallery.shinyapps.io/182-google-charts/", height ="550px")
+```
+
+# Interactive reporting with Shiny
+
+## Livecoding
+
+::: task
+Code along in [`shiny-examples/182-google-charts/app.R`](https://github.com/rstudio/shiny-examples/blob/main/182-google-charts/app.R).
+:::
