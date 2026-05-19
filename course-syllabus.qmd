@@ -1,0 +1,323 @@
+---
+title: "INFO 526 Syllabus Summer 2025"
+format: 
+  html: default
+  pdf: default
+---
+
+## Course Description
+
+INFO 526 Data Analysis and Visualization - This course provides an overview of the various concepts and skills required for effective data visualization. It presents principles of graphic design, programming skills, and statistical knowledge required to build compelling visualizations that communicate effectively to target audiences. Visualization skills addressed in this course include choosing appropriate colors, shapes, variable mappings, and interactivity based on principles of color perception, pre-attentive processing, and accessibility.
+
+## Course offering
+
+635-2252-7W1 INFO 526 102 202 -- Data Analysis and Visualization
+
+## Instructor Information
+
+### Instructor
+
+Dr. Greg Chism,
+
+Assistant Professor of Practice,
+
+School of Information
+
+[gchism\@arizona.edu](mailto:gchism@arizona.edu)
+
+**Office Hours**: By appointment only.
+
+## Prerequisites
+
+Strong quantitative, statistical, and analytical reasoning abilities are needed to succeed in this course.
+
+This course assumes that this is not your first interaction with working with data in R, using RStudio, and along with version control with Git, and collaboration on GitHub. The course will start with a quick review of the relevant technologies.
+
+## Course Format
+
+Asynchronous online lectures. Videos of each lecture will be available no later than the Monday of each week by 9am.
+
+## Course Objective
+
+This course provides an overview of the various concepts and skills required for effective data visualization. It presents principles of graphic design, programming skills, and statistical knowledge required to build compelling visualizations that communicate effectively to target audiences. Visualization skills addressed in this course include choosing appropriate colors, shapes, variable mappings, and interactivity based on principles of color perception, pre-attentive processing, and accessibility.
+
+## Learning Outcomes
+
+-   Understand the principles of designing and creating effective data visualizations.
+-   Evaluate, critique, and improve upon one's own and others' data visualizations based on how good a job the visualization does for communicating a message clearly and correctly.
+-   Post-process and refine plots for effective communication.
+-   Use visualizations for evaluating statistical models and for statistical inference.
+-   Master using R and a variety of modern data visualization packages to create data visualizations.
+-   Work reproducibly individually and collaboratively using Git and GitHub.
+
+## Textbooks
+
+Readings for the course will come from the following textbooks. All of them are **freely available online** and you do not need to purchase a physical copy of either book to succeed in this class.
+
+1.  `[ggplot2-book]` Hadley Wickham, Danielle Navarro, and Thomas Lin Pedersen. [ggplot2: Elegant Graphics for Data Analysis](https://ggplot2-book.org/). (in progress) 3rd edition. Springer, 2022.
+2.  `[socviz]` Kieran Healy. [Data Visualization: A Practical Introduction](https://socviz.co/). Princeton University Press, 2018.
+3.  `[fdv]` Claus O. Wilke. [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/). O'Reilly Media, 2019.
+4.  `[r4ds]` Hadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund. [R for Data Science](https://r4ds.hadley.nz/). 2nd edition. O'Reilly, 2022.
+
+## Course Schedule
+
+An up-to-date schedule, assignments, and due dates can be found on the course website: [datavizaz.org](https://datavizaz.org/).
+
+## Course competencies
+
+This course is a core requirement for the MS in Data Science. It will help you master the following competencies:
+
+-   MSINFO2: Students will obtain the skills of collecting, manipulating, and analyzing different types of data at different scales, and interpreting the results properly.
+
+-   MSINFO3: Students will acquire the skills to communicate the results of their work to interdisciplinary teams, using appropriate visualizations, multi-media, or artistic performance.
+
+## Course Community
+
+### UArizona Community Standard
+
+All students must adhere to the [UArizona Student Rights & Responsibilities](https://deanofstudents.arizona.edu/student-rights-responsibilities#:~:text=The%20Code%20of%20Academic%20Integrity%20and%20Student%20Code,conduct%20expected%20within%20the%20University%20of%20Arizona%20community.): The University of Arizona is a community dedicated to scholarship, leadership, and service and to the principles of honesty, fairness, and accountability. Citizens of this community commit to reflect upon these principles in all academic and non-academic endeavors, and to protect and promote a culture of integrity.
+
+### Inclusive community
+
+It is my intent that students from all diverse backgrounds and perspectives be well-served by this course, that students' learning needs be addressed both in and out of class, and that the diversity that the students bring to this class be viewed as a resource, strength, and benefit. It is my intent to present materials and activities that are respectful of diversity and in alignment with [UArizona's Commitment to Diversity and Inclusion](https://provost.arizona.edu/content/diversity-inclusion). Your suggestions are encouraged and appreciated. Please let me know ways to improve the effectiveness of the course for you personally, or for other students or student groups.
+
+Furthermore, I would like to create a learning environment for my students that supports a diversity of thoughts, perspectives and experiences, and honors your identities. To help accomplish this:
+
+-   If you have a name that differs from those that appear in your official UArizona records, please let me know! You'll be able to note this in the Getting to know you survey.
+-   If you feel like your performance in the class is being impacted by your experiences outside of class, please don't hesitate to come and talk with me. If you prefer to speak with someone outside of the course, your academic dean is an excellent resource.
+-   I (like many people) am still in the process of learning about diverse perspectives and identities. If something was said in class (by anyone) that made you feel uncomfortable, please let me or a member of the teaching team know.
+
+### Communication
+
+All lecture videos and notes, assignment instructions, an up-to-date schedule, and other course materials may be found on the course website: [datavizaz.org](https://datavizaz.org/).
+
+I will regularly send course announcements via email and Slack, make sure to check one or the other of these regularly. If an announcement is sent Monday through Thursday, I will assume that you have read the announcement by the next day. If an announcement is sent on a Friday or over the weekend, I will assume that you have read it by Monday.
+
+### Where to get help
+
+-   If you have a question during lecture, feel free to ask it! There are likely other students with the same question, so by asking you will create a learning opportunity for everyone.
+-   The teaching team is here to help you be successful in the course. You are encouraged to attend office hours to ask questions about the course content and assignments. Many questions are most effectively answered as you discuss them with others, so office hours are a valuable resource. Please use them!
+-   Outside of class and office hours, any general questions about course content or assignments should be posted on the course [Slack](https://info526summer2024.slack.com/). There is a chance another student has already asked a similar question, so please check the other posts on Slack before adding a new question. If you know the answer to a question posted on Slack, I encourage you to respond!
+
+Check out the [Support](https://datavizaz.org/course-support) page for more resources.
+
+I want to make sure that you learn everything you were hoping to learn from this class. If this requires flexibility, please don't hesitate to ask.
+
+-   You *never* owe me personal information about your health (mental or physical) but you're always welcome to talk to me. If I can't help, I likely know someone who can.
+
+-   I want you to learn lots of things from this class, but I primarily want you to stay healthy, balanced, and grounded during this crisis.
+
+## Lectures
+
+My role as instructor is to introduce you new tools and techniques, but it is up to you to take them and make use of them. A lot of what you do in this course will involve writing code, and coding is a skill that is best learned by doing. Therefore, as much as possible, you will be working on a variety of tasks and activities throughout each lecture.
+
+## Assessment
+
+Assessment for the course is comprised of four components: attendance and participation, reading quizzes, homework assignments, and final project.
+
+-   **Participation** is required in the course, mostly via Slack. Asking questions in the channels is particularly encouraged, as is helping your peers.
+
+-   **Reading quizzes** (4), due every other week (roughly), completed individually. Each quiz is worth 2.5% of the grade.
+
+    Reading quizzes will be linked from the [course schedule](https://datavizaz.org/). They always cover reading that is due since the previous quiz and up to and including the deadline for the given quiz. They're due by 5pm AZ time on the indicated day on the [course schedule](https://datavizaz.org/).
+
+-   **Homework assignments** (5), due every week (roughly) starting Week 2, completed individually. Each homework assignment is worth 9% of the course grade. All are required, but the lowest homework assignment score is dropped and replaced with the average of the remaining 4.
+
+    Homework assignments are due by 5pm AZ Time on the indicated day on the [course schedule](https://datavizaz.org/).
+
+-   **Project** (1), end of term, completed in individuals or pairs.
+
+    -   Final Project: Teams will be given a dataset to visualize. Project 1 is worth 40% of the course grade.
+
+    The deliverables for the project will include a data visualization, a write up of the process and findings, and a presentation. For the second project, you will be encouraged to think beyond a traditional two-dimensional data visualization (e.g., interactive web apps/dashboards, data art, generative art, physical/tangible visualizations, **{ggplot2}** extensions, etc.).
+
+    The project will have a peer review component to provide at least one round of feedback during the process of development. Teams will provide periodic peer feedback to their teammates while working on the project as well as upon completion. The scores from the peer evaluations, along with individual contributions tracked by commits on GitHub, will be used to ensure that each student has contributed to the teamwork.
+
+    All team members must take part in the presentation. Presentations can be givenvia video recording, or via Zoom to the instructor if the team prefers. My preference is that the team stick to one method of delivery (all presenters via video or all presenters on Zoom), but I realize a lot can change throughout this semester, and we'll adjust accordingly.
+
+All work is expected to be submitted by the deadline and there are no make ups for any missed assessments. See [Late work policy](#late-work-extensions) for policies on late work.
+
+## Grading
+
+The final course grade will be calculated as follows:
+
+| Category             | Percentage |
+|----------------------|------------|
+| Participation        | 5%         |
+| Reading quizzes      | 10%        |
+| Homework assignments | 45%        |
+| Final Project        | 40%        |
+
+The final letter grade will be determined based on the following thresholds:
+
+| Letter Grade | Final Course Grade |
+|--------------|--------------------|
+| A            | \>= 90             |
+| B            | 80 - 89.99         |
+| C            | 70 - 79.99         |
+| D            | 60 - 69.99         |
+| E            | 50-59.99           |
+| F            | \< 60              |
+
+These are upper bounds for grade cutoffs, depending on the class performance the cutoffs may be lowered but they won't be increased.
+
+## Course policies
+
+### Academic honesty
+
+**TL;DR: Don’t cheat!**
+
+Please abide by the following as you work on assignments in this course:
+
+-   **Collaboration:** Only work that is clearly assigned as team work should be completed collaboratively.
+
+    -   You may discuss lab assignments with other students; however, you may not directly share (or copy) code or write up with other students. For team assignments, you may collaborate freely within your team. You may discuss the assignment with other teams; however, you may not directly share (or copy) code or write up with another team. Unauthorized sharing (or copying) of the code or write up will be considered a violation for all students involved.
+
+    -   You may not discuss or otherwise work with others on the exams. Unauthorized collaboration or using unauthorized materials will be considered a violation for all students involved. More details will be given closer to the exam date.
+
+    -   For the project, collaboration within teams is not only allowed, but expected. Communication between teams at a high level is also allowed however you may not share code or components of the project across teams.
+
+    -   On individual assignments you may not directly share work (including code) with another student in this class, and on team assignments you may not directly share work (including code) with another team in this class.
+
+-   **Online resources:** I am well aware that a huge volume of code is available on the web to solve any number of problems. Unless I explicitly tell you not to use something, the course’s policy is that you may make use of any online resources (e.g., StackOverflow) but you must explicitly cite where you obtained any code you directly use (or use as inspiration). Any recycled code that is discovered and is not explicitly cited will be treated as plagiarism.
+
+-   **Use of generative artificial intelligence (AI)**: You should treat generative AI, such as ChatGPT, the same as other online resources. There are two guiding principles that govern how you can use AI in this course[^1]:
+
+    1.  *Cognitive dimension:* Working with AI should not reduce your ability to think clearly. We will practice using AI to facilitate—rather than hinder—learning.
+
+    2.  *Ethical dimension***:** Students using AI should be transparent about their use and make sure it aligns with academic integrity.
+
+    -   **✅ AI tools for code:** You may make use of the technology for coding examples on assignments; if you do so, you must explicitly cite where you obtained the code. Any recycled code that is discovered and is not explicitly cited will be treated as plagiarism. You may use [these guidelines](https://guides.lib.monash.edu/c.php?g=219786&p=6972087) for citing AI-generated content.
+
+    -   **❌ AI tools for narrative:** Unless instructed otherwise, you may not use generative AI to write narrative on assignments. In general, you may use generative AI as a resource as you complete assignments but not to answer the exercises for you.
+
+    You are ultimately responsible for the work you turn in; it should reflect *your* understanding of the course content.
+
+[^1]: These guiding principles are based on [*Course Policies related to ChatGPT and other AI Tools*](https://docs.google.com/document/d/1WpCeTyiWCPQ9MNCsFeKMDQLSTsg1oKfNIH6MzoSFXqQ/preview) developed by Joel Gladd, Ph.D.
+
+If you are unsure if the use of a particular resource complies with the academic honesty policy, please ask a member of the teaching team.
+
+## College of Information Science Academic Integrity Policy
+
+This policy agreed upon by faculty in the College of Information Science at the University of Arizona (InfoSci) applies in addition to the Dean of Students' [Code of Academic Integrity](https://deanofstudents.arizona.edu/policies/code-academic-integrity).
+
+Students in courses at the U of A InfoSci are expected to maintain rigor in their academic performance with intent to learn, practice, and overcome challenges toward personal growth and enrichment. As future professionals in digital environments, InfoSci students are also expected to exercise transparency and integrity in collaborations and in the use of tools and resources that may aid completion in assignments for our courses.
+
+**Consider the following PROHIBITED** practices in this course, unless the instructor has specifically written instructions or permission to do otherwise:
+
+-   Posting a question on an online site such as Chegg.com, and copying and pasting some or all of the response into an assessment
+
+-   Posting an assessment from the course on online sharing sites such as Course Hero. Aiding other students in violation of academic integrity is also a violation, and is potential copyright infringement.
+
+-   Generating and submitting, in whole or in part, text or code through Artificial Intelligence such as ChatGPT, QuillBot, and text summarizers
+
+-   Using, in whole or in part, computer code not written by the student (for example, from another student, a book, or the internet) in an assignment or project. This includes using such code in modified or unmodified form.
+
+-   Searching for solutions to projects or assignments on the internet or through other tools, when your instructor intended for you to learn the solution through exercises (e.g. Googling for the solution to a question on an assignment).
+
+-   Simultaneously submitting the same assignment as another student enrolled into the course without prior permission from the instructor
+
+***Exceptions: Clear Instructions will be Provided***
+
+In any cases in which this course requires or permits students to use practices in the list above, clear written instructions will specify the tools allowed or required, so students can be certain they are working as instructed. See the [U of A InfoSci Academic Integrity Policy](https://infosci.arizona.edu/students-and-career/academic-integrity), the [U of A Code of Academic Integrity](https://deanofstudents.arizona.edu/policies/code-academic-integrity) and [Syllabus policy](https://catalog.arizona.edu/syllabus-policies) for more information.
+
+### LLMs and ChatGPT
+
+Large language models (LLMs) like ChatGPT are a type of artificial intelligence (AI) engine that can look like it generates the code you need for Python labs and short answer questions. You are encouraged to use ChatGPT to debug code and experiment. However, abuse of ChatGPT can be traced (e.g., failing to give credit or cite ChatGPT when it is used) which could result in your suspension or termination from the course and even your program of study. Keep in mind, too, that while the code may appear legitimate, early studies have shown ChatGPT is not all that accurate with sophisticated coding. Exercise your scholarly discretion and maintain a sense of integrity in your statistical learning journey.
+
+*See my additional policies on this subject above.*
+
+## Late work & extensions {#late-work-extensions}
+
+The due dates for assignments are there to help you keep up with the course material and to ensure the teaching team can provide feedback within a timely manner. We understand that things come up periodically that could make it difficult to submit an assignment by the deadline.
+
+Policy on late work depends on the particular course component:
+
+-   Reading quizzes: Late quizzes are not accepted and there are no make ups for missed quizzes.
+
+-   Homework assignments: GitHub repositories will be closed to contributions at the deadline. If you need to submit your work late, send a DM on Slack to me to reopen your repository.
+
+    -   Late, within 24 hours of deadline: -10% of available points
+
+    -   Late, within 24-48 hours of deadline: -20% of available points
+
+    -   Two days late or later: No credit, and we will not provide written feedback
+
+-   Projects: The following three components contribute to your project score.
+
+    -   Presentation: Late presentations are not accepted and there are no make ups for missed presentations.
+
+    -   Write up: GitHub repositories will be closed to contributions at the deadline. If you need to submit your work late, Slack/email me to reopen your repository.
+
+        -   Late, within 24 hours of deadline: -10% of available points
+
+        -   Late, within 24-48 hours of deadline: -20% of available points
+
+        -   Two days late or later: No credit, and we will not provide written feedback
+
+    -   Peer evaluation: Late peer evaluations are not accepted and there are no make ups for missed presentations. If you do not turn in your peer evaluation, you get 0 points for your own peer score as well, regardless of how your teammates have evaluated you.
+
+### Waiver for extenuating circumstances
+
+If there are circumstances that prevent you from completing a reading quiz or homework assignment by the stated due date, you may email me ([gchism\@arizona.edu](mailto:gchism@arizona.edu)) before the deadline to waive the late penalty. In your email, you only need to request the waiver; you do not need to provide explanation. This waiver may only be used for once in the semester, so only use it for a truly extenuating circumstance.
+
+If there are circumstances that are having a longer-term impact on your academic performance, please let your academic dean know, as they can be a resource. Please let me know if you need help contacting your academic dean.
+
+## Regrade requests
+
+Regrade requests must be made within one week of when the assignment is returned, and must be typed up and submitted via email to me. These will be considered if points were tallied incorrectly or if you feel your answer is correct but it was marked wrong. No regrade will be made to alter the number of points deducted for a mistake. Note that during the regrade process your score could go up or go down or not change.
+
+*No grades will be changed after the project presentations.*
+
+## "Incomplete" grade
+
+The grade of "I" may be awarded only at the end of a term, when all but a minor portion of the course work has been satisfactorily completed. The grade of I is not to be awarded in place of a failing grade or when the student is expected to repeat the course; in such a case, a grade other than I must be assigned. Students should make arrangements with the instructor to receive an incomplete grade before the end of the term. If the incomplete is not removed by the instructor within one year the I grade will revert to a failing grade.
+
+## Tutoring
+
+Tutoring can be found through the UArizona [Think Tank](#0 "https://thinktank.arizona.edu/").
+
+## Attendance policy
+
+Responsibility for class attendance rests with individual students. Since regular and punctual class attendance is expected, students must accept the consequences of failure to attend.
+
+However, there may be many reasons why you cannot be in class on a given day, particularly with possible extra personal and academic stress and health concerns this semester. I am always available to personally catch you up from missed lectures. Please contact me directly about these additional "office hours".
+
+Note that attendance and participation is part of your grade as well.
+
+### Attendance policy related to COVID symptoms, exposure, or infection
+
+Student health, safety, and well-being are the university's top priorities. To help ensure your well-being and the well-being of those around you, please do not come to class if you have symptoms related to COVID-19, have had a known exposure to COVID-19, or have tested positive for COVID-19. If any of these situations apply to you, you must follow university guidance related to the ongoing COVID-19 pandemic and current health and safety protocols. If you are experiencing any COVID-19 symptoms, contact student health at (520) 621-9202. To keep the university community as safe and healthy as possible, you will be expected to follow these and the [university guidelines on COVID-19 mitigation](http://www.covid19.arizona.edu/). Please reach out to me and your academic dean as soon as possible if you need to quarantine or isolate so that we can discuss arrangements for your continued participation in class.
+
+Notify your instructor(s) if you will be missing up to one week of course meetings and/or assignment deadlines
+
+If you must miss the equivalent of more than one week of class and have an emergency, the Dean of Students is the proper office to contact ([DOS-deanofstudents\@email.arizona.edu](mailto:DOS-deanofstudents@email.arizona.edu)). The Dean of Students considers the following as qualified emergencies: the birth of a child, mental health hospitalization, domestic violence matter, house fire, hospitalization for physical health (concussion/emergency surgery/coma/COVID-19 complications/ICU), death of immediate family, Title IX matters, etc.
+
+Please understand that there is no guarantee of an extension when you are absent from class and/or miss a deadline.
+
+## Accessibility
+
+Accessibility and Accommodations: At the University of Arizona, we strive to make learning experiences as accessible as possible. If you anticipate or experience barriers based on disability or pregnancy, please contact the Disability Resource Center (520-621-3268, https://drc.arizona.edu) to establish reasonable accommodations.
+
+*Note: If you've read this far in the syllabus, email me a picture of your pet if you have one or your favorite meme!*
+
+## Additional university policies
+
+Additional policies can be found at this link (please read through them): <https://catalog.arizona.edu/syllabus-policies>
+
+## Safety on Campus and in the Classroom
+
+For a list of emergency procedures for all types of incidents, please visit the website of the Critical Incident Response Team (CIRT): <https://cirt.arizona.edu/case-emergency/overview>
+
+Also watch the video available at <https://arizona.sabacloud.com/Saba/Web_spf/NA7P1PRD161/common/learningeventdetail/crtfy000000000003560>
+
+## Important dates
+
+-   **Monday, May 19:** Classes begin, asynchronously
+-   **Friday, June 27:** Last day of classes and examinations
+
+For more important dates, see the full [UArizona Academic Calendar](https://archive.catalog.arizona.edu/2022-23/2024-2025-academic-calendar.html).
+
+## Graduate Student Resources
+
+University of Arizona's Basic Needs Resources page for graduate students: <http://basicneeds.arizona.edu/index.html>

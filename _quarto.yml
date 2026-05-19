@@ -1,0 +1,91 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  page-navigation: true
+  title: "INFO 526"
+  description: "Homepage for INFO 526 - Data Visualization and Analysis at The University of Arizona, Summer 2025."
+  site-url: "https://datavizaz.org/"
+  favicon: /images/logo.png
+
+  #repo-url: https://github.com/INFO-526-SU25
+  #repo-actions: [edit, issue]
+
+  open-graph: true
+
+  sidebar:
+    background: "#378DBD" # Oasis
+    logo: "images/logo.png"
+    pinned: true
+    align: center
+
+    style: docked
+    search: true
+    collapse-level: 1
+    contents:
+      - section: "Course information"
+        contents:
+          - href: course-overview.qmd
+            text: Overview
+          - href: course-syllabus.qmd
+            text: Syllabus
+          - href: course-support.qmd
+            text: Support
+          - href: course-team.qmd
+            text: Teaching team
+          - href: index.qmd
+            text: Schedule
+      - section: "Resources"
+        contents: 
+          - href: course-links.qmd
+            text: Useful links
+          - href: resources/design.qmd
+            text: Design
+          - href: resources/visualization.qmd
+            text: Visualization
+          - href: resources/R.qmd
+            text: Learning R
+          - href: resources/style.qmd
+            text: Code style
+          - href: computing/computing-troubleshooting.qmd
+            text: Troubleshooting
+          - href: computing/computing-cheatsheets.qmd
+            text: Cheatsheets
+      - section: "Guides"
+        contents:
+          - href: guides/install.qmd
+            text: Installing R/RStudio
+          - href: computing/computing-git.qmd
+            text: Setting up Git
+          - href: guides/markdown.qmd
+            text: Markdown
+          - href: guides/quarto.qmd
+            text: Quarto
+      - section: "Projects"
+        contents:
+          - href: project/final-project.qmd
+            text: Final Project
+          - href: project/project-tips-resources.qmd
+            text: Tips & Resources
+
+  page-footer:
+    right: "This page is built with 💛 and [Quarto](https://quarto.org/)."
+    left: "&copy; Copyright 2026, Greg Chism"
+    background: "#378DBD" # Oasis
+
+format:
+  html:
+    theme:
+      light: [cosmo, style/info526.scss]
+      dark: [cosmo, style/info526.scss, style/dark.scss]
+    linkcolor: "#EF4056" # Azurite
+    toc: true
+    code-copy: true
+    code-overflow: wrap
+    mainfont: "Montserrat"
+
+execute:
+  freeze: false
+
+editor: visual

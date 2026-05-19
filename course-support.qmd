@@ -1,0 +1,88 @@
+---
+title: "Course support"
+---
+
+Most of you will need help at some point and we want to make sure you can identify when that is without getting too frustrated and feel comfortable seeking help.
+
+## Office hours
+
+The teaching team is here to help you be successful in the course. You are encouraged to attend office hours during the times posted on the home page to ask questions about the course content and assignments. A lot of questions are most effectively answered in-person, so office hours are a valuable resource. I encourage each and every one of you to take advantage of this resource! Make a pledge to stop by office hours at least once during the first three weeks of class. If you truly have no questions to ask, just stop by and say hi and introduce yourself. You can find a list of everyone's office hours [here](/course-team.html).
+
+## Slack
+
+Have a question that can't wait for office hours? Prefer to write out your question in detail rather than asking in person? The [course Slack](https://info-526-su25.slack.com/) is the best venue for these! There is a chance another student has already asked a similar question, so please check the other posts on Slack before asking a new question. If you know the answer to a question that is posted, I encourage you to respond!
+
+## Email
+
+Please refrain from emailing any course content questions (those should go to Slack), and only use email for questions about personal matters that may not be appropriate for the public course forum (e.g., illness, accommodations, etc.). For such matters, you may email Dr. Greg Chism at [gchism\@arizona.edu](#0).
+
+If there is a question that's not appropriate for the public forum, you are welcome to email me directly. **If you email me, please include "INFO 526" in the subject line.** Barring extenuating circumstances, I will respond to INFO 526 emails within 48 hours Monday - Friday. I do not respond to emails sent Friday evening - Sunday, nor would I expect you to.
+
+## How to Ask For Help
+
+We'll see in this course that a key skill that you should develop as a data scientist is the ability to find solutions to problems. Knowing how to get help is part of that skill.
+
+### Before you ask for help:
+
+-   **Check for typos.** One of the most common causes of errors are typos, which usually throw an error such as `Error in _____ : could not find function “_____”` due to a function being misspelled
+
+-   **Check loaded packages.** You also get errors like `Error in data %>% summary() : could not find function “%>%”` when you failed to load a package.
+
+-   **Read the error message.** Don't ignore what R is telling you. Be aware that red text that appears in your console is not alwayws indication of errors. Sometimes it's just a warning.
+
+-   **Google is your friend.** Copy and paste the exact error message on a Google search. (this step also includes **read the documentation** on the package you're trying to use).
+
+-   If you are still stuck, you an always try **rubber duck debugging**. Describe the problem aloud, explaining it line-by-line, to a rubber duck or another person (who might not have any experience with programming of data science). This is also a good preparation step to asking other people for help (next section).
+
+### Ask other people for help
+
+Like mentioned before, you should ask your peers for help before you ask your instructor. Relying on a single person to solve all of your problems is dangerous, because that person won't be available throughout your career as a data scientist.
+
+-   Check **our Slack** to see if someone else has asked a question similar to yours, and whether there's a solution posted for it.
+
+-   **Be precise and informative**. The more context you can provide about what you're trying to do and what errors you're getting, the better. Also describe the steps you took to try to solve the problem yourself.
+
+### List of resources
+
+-   [Getting Help with R](https://www.r-project.org/help.html)
+
+-   [Roger Peng's How To Get Help video](https://www.youtube.com/watch?v=ZFaWxxzouCY&feature=youtu.be)
+
+-   [Rubber Duck Debugging](https://rubberduckdebugging.com/)
+
+## Academic support
+
+There are times may need help with the class that is beyond what can be provided by the teaching team. In those instances, I encourage you to visit the Academic Resource Center. The [Student Success & Retention Innovation (SOS)](https://sos.arizona.edu/) offers free services to all students during their graduate careers at UArizona. Services include Learning Consultations, Peer Tutoring and Study Groups, ADHD/LD Coaching, and more. Because learning is a process unique to every individual, they work with each student to discover and develop their own academic strategy for success at UArizona.
+
+## Mental health and wellness
+
+Student mental health and wellness are of primary importance at UArizona, and the university offers resources to support students in managing daily stress and self-care. Campus Health offers several resources for students to seek assistance on coursework and to nurture daily habits that support overall well-being, some of which are listed below. For medical appointments, call (520) 621-9202. For After Hours care, call (520) 570-7898. For the Counseling & Psych Services (CAPS) 24/7 hotline, call (520) 621-3334
+
+-   **Academic advising:** If you have questions about your academic progress this semester, or your chosen degree program, consider contacting your department's academic advisor(s).  Your academic advisor and the [Advising Resource Center](https://advising.arizona.edu/) can guide you toward university resources to help you succeed.
+
+-   **Spiritual Wellness:** CAPS: (520) 621-3334, provides Moments of Mindfulness (stress management and resilience building) and meditation programming to assist students in developing a daily emotional well-being practice. To see schedules for programs please see <https://caps.arizona.edu/spiritual-wellness>. All are welcome and no experience necessary.
+
+If your mental health concerns and/or stressful events negatively affect your daily emotional state, academic performance, or ability to participate in your daily activities, many resources are available to help you through difficult times. UArizona encourages all students to access these resources.
+
+-   **Student Supporter Hub:** Provides comprehensive services to identify and support students in managing all aspects of well-being. If you have concerns about a student's behavior or health visit the website for resources and assistance: <https://caps.arizona.edu/student-supporter>.
+-   **Counseling & Psychological Services (CAPS):** CAPS services include individual and group counseling services, psychiatric services, and workshops. To initiate services, walk-in/call-in 8am-4:30pm M,Tu,Th,F and 9am-4:30pm Wednesdays; (520) 621-3334. CAPS also provides referral to off-campus resources for specialized care: <https://caps.arizona.edu/caps-student-support-outreach-request>.
+-   **Crisis Support:** After-hours crisis callers may speak with a licensed counselor by pressing 1 when prompted by the automatic message: <https://caps.arizona.edu/crisis-resources-hotlines>.
+
+## Course costs
+
+-   **Textbooks:** The textbooks for this course are freely available on the web.
+-   **Laptops:** Each student is expected to have a laptop they can bring to each lecture and lab.
+
+If you are having difficulty with costs associated with this course, here are some resources:
+
+-   [Contact the financial aid office](https://financialaid.arizona.edu/ "https://financialaid.arizona.edu/") (whether or not you are on aid). They have loans and resources for connecting students with programs on campus that might be able to help alleviate these costs.
+
+-   For course-specific technology needs such as Digital Voice Recorder, HD Video Camera, TI-84 Plus CE, DSLR camera kit, Tripod, Microphones, iPad Mini, a Handheld Projector, or a GoPro, [you can reserve rental equipment](https://lib.arizona.edu/borrow/tech) from the Link.
+
+## **Assistance with Zoom or D2L**
+
+For technical help with D2L or Zoom, contact the Duke OIT Service Desk at [it.arizona.edu/get-support](https://it.arizona.edu/get-support). You can also access the self-service help documentation for Zoom [here](https://oit.duke.edu/help/articles/kb0029318) and for D2L [here](https://help.d2l.arizona.edu/).
+
+Note that we will be making minimal use of D2L in this course (primarily for announcements and grade book). All assignment submission will take place on GitHub and conversation on Slack.
+
+Zoom will be used for online office hours as well as as a backup option should we need to hold the course online instead of in person.

@@ -1,0 +1,35 @@
+---
+title: "Useful links"
+---
+
++----------------------------+------------------------------------------------------------------------------------+
+| Posit Cloud                | 🔗 <https://posit.cloud/>                                                          |
++----------------------------+------------------------------------------------------------------------------------+
+| Course GitHub organization | 🔗 on [GitHub](https://github.com/INFO-526-SU25)                                   |
++----------------------------+------------------------------------------------------------------------------------+
+| Slack                      | 🔗 *Deprecated*                                                                    |
++----------------------------+------------------------------------------------------------------------------------+
+| Gradebook                  | 🔗 on D2L                                                                          |
++----------------------------+------------------------------------------------------------------------------------+
+| Textbooks                  | 🔗 [ggplot2: Elegant Graphics for Data Analysis](https://ggplot2-book.org/)        |
+|                            |                                                                                    |
+|                            | 🔗 [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/)           |
+|                            |                                                                                    |
+|                            | 🔗 [Data Visualization: A Practical Introduction](https://socviz.co/)              |
++----------------------------+------------------------------------------------------------------------------------+
+| Package documentation      | 🔗 ggplot2: [ggplot2.tidyverse.org](https://ggplot2.tidyverse.org/)                |
+|                            |                                                                                    |
+|                            | 🔗 dplyr: [dplyr.tidyverse.org](https://dplyr.tidyverse.org/)                      |
+|                            |                                                                                    |
+|                            | 🔗 tidyr: [tidyr.tidyverse.org](https://tidyr.tidyverse.org/)                      |
+|                            |                                                                                    |
+|                            | 🔗 forcats: [forcats.tidyverse.org](https://forcats.tidyverse.org/)                |
+|                            |                                                                                    |
+|                            | 🔗 stringr: [stringr.tidyverse.org](https://stringr.tidyverse.org/)                |
+|                            |                                                                                    |
+|                            | 🔗 lubridate: [lubridate.tidyverse.org](https://lubridate.tidyverse.org/)          |
+|                            |                                                                                    |
+|                            | 🔗 readr: [readr.tidyverse.org](https://readr.tidyverse.org/)                      |
++----------------------------+------------------------------------------------------------------------------------+
+| Cédric Scherer             | 🔗 Links: [cedricscherer.com/top/links/](https://www.cedricscherer.com/top/links/) |
++----------------------------+------------------------------------------------------------------------------------+
